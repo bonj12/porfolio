@@ -95,7 +95,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>January 6, 1994</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>January 6, 1995</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://ronald-bonje.herokuapp.com/</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+63 991 364 8515</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Cebu City, Philippines</span></li>
@@ -103,7 +103,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>28</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>College Graduage</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>bonjeronaldbarry12@gmail.com</span></li>
                 </ul>
